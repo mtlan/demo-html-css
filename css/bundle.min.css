@@ -12632,7 +12632,7 @@ p {
   .six-menu .navbar-collapse.show .main-nav {
     overflow-y: auto;
     /* height: 80vh; */
-    padding-bottom: 2rem;
+    /* padding-bottom: 2rem; */
   }
   .no-md-sticky {
     position: relative;
