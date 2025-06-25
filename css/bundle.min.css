@@ -5625,9 +5625,14 @@ fieldset:disabled .btn {
   touch-action: pan-y;
 }
 .carousel-inner {
-  position: relative;
+  /* position: relative;
   width: 100%;
-  overflow: hidden;
+  overflow: hidden; */
+  max-height: 400px;
+}
+.carousel-inner img {
+  height: 400px;     /* hoặc 50vh */
+  object-fit: cover; /* Giúp ảnh không bị méo, cắt cho vừa khung */
 }
 .carousel-inner:after {
   display: block;
