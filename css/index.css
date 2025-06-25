@@ -39,15 +39,15 @@
 .spec_1i:hover {
     /* background-image: linear-gradient(90deg, #7114EF 0%, #1475F7 50%, #7114EF) !important; */
     /* background-image: linear-gradient(90deg, #9c626b 0%) !important; */
-    background-image: linear-gradient(90deg, #de80b2 0%, #df426b 50%, #de80b2) !important;
+    /* background-image: linear-gradient(90deg, #de80b2 0%, #df426b 50%, #de80b2) !important; */
 }
 
 .spec_1i:hover span {
-    color: #22aac2;
+    color: #bc243c;
 }
 
-.spec_1i:hover h5 a {
-    color: #fff;
+.spec_1i:hover h5 {
+    color: #bc243c;
 }
 
 .spec_1i span i {
