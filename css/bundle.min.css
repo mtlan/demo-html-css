@@ -5628,10 +5628,10 @@ fieldset:disabled .btn {
   /* position: relative;
   width: 100%;
   overflow: hidden; */
-  max-height: 400px;
+  max-height: 600px;
 }
 .carousel-inner img {
-  height: 400px;     /* hoặc 50vh */
+  height: 600px;     /* hoặc 50vh */
   object-fit: cover; /* Giúp ảnh không bị méo, cắt cho vừa khung */
 }
 .carousel-inner:after {
